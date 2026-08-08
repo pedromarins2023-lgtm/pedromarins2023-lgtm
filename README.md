@@ -1,4 +1,4 @@
-## Hi there 👋
+Olá eu sou o Pedro Marins 👋
 
 <!--
 **pedromarins2023-lgtm/pedromarins2023-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
