@@ -1,49 +1,126 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,40:cc0000,75:660000,100:0d0000&height=280&section=header&text=PEDRO%20MARINS&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ff0000&strokeWidth=1"/><br><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=27&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&width=900&height=60&lines=CI%C3%8ANCIA+DA+COMPUTA%C3%87%C3%83O;DESENVOLVEDOR+EM+FORMA%C3%87%C3%83O;APAIXONADO+POR+TECNOLOGIA;TRANSFORMANDO+IDEIAS+EM+C%C3%93DIGO;SEMPRE+APRENDENDO+ALGO+NOVO" /><br><br>
+#  Pedro Marins
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=2200&pause=600&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=Bem-vindo+ao+meu+perfil+%F0%9F%94%A5;Aqui+%C3%A9+onde+ideias+viram+projetos;Code.+Create.+Evolve." /><br><br>
+### Desenvolvedor em formação • Front-End • Tecnologia
 
-<img src="https://komarev.com/ghpvc/?username=pedromarins2023-lgtm&label=VISITANTES&color=FF0000&style=for-the-badge" /></div>
+> Construindo projetos, aprendendo todos os dias e transformando ideias em código.
 
-<div align="center">🔥 SOBRE MIM
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&duration=2500&pause=800&color=FF3333&center=true&vCenter=true&width=850&height=50&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Construindo+meu+futuro+na+tecnologia;Aprendendo+%7C+Praticando+%7C+Construindo" /><br><br>
+##  Sobre mim
 
-💻 Desenvolvimento Web
-🧠 Lógica e Programação
-🚀 Tecnologia e Inovação
-📚 Aprendizado constante
+Olá! Eu sou **Pedro Marins**, estudante de programação e apaixonado por tecnologia.
+
+Atualmente, estou focado no desenvolvimento **Front-End**, criando projetos práticos e aprimorando meus conhecimentos em desenvolvimento web.
+
+ Atualmente estudando:
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* Angular
+* Git & GitHub
+
+ Objetivo: evoluir constantemente como desenvolvedor e construir projetos cada vez mais completos.
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-181818?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-181818?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=for-the-badge\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-181818?style=for-the-badge\&logo=angular\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181818?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181818?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
 
-🔴 TECNOLOGIAS
+---
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,nodejs,npm" /><br><br>
+##  GitHub Analytics
 
-<img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-FF0000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-FF0000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-FF0000?style=for-the-badge&logo=typescript&logoColor=white"/></div>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromarins2023-lgtm&show_icons=true&theme=dark&bg_color=181818&title_color=ffffff&text_color=b3b3b3&icon_color=999999&border_color=333333"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarins2023-lgtm&layout=compact&theme=dark&bg_color=181818&title_color=ffffff&text_color=b3b3b3&border_color=333333"/>
+
+</div>
+
+---
+
+##  Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedromarins2023-lgtm&bg_color=181818&color=ffffff&line=999999&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+##  Sequência de contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pedromarins2023-lgtm&theme=dark&background=181818&border=333333&stroke=333333&ring=999999&fire=ffffff&currStreakLabel=ffffff&sideLabels=b3b3b3&currStreakNum=ffffff&sideNums=ffffff&dates=777777"/>
+
+</div>
+
+---
+
+## 📂 Projetos
+
+### 🌱 Projeto Uçá
+
+Projeto socioambiental desenvolvido com foco na **preservação dos manguezais**, educação ambiental e conscientização.
+
+**Tecnologias:** HTML • CSS • JavaScript
+
+
+---
+
+## 💻 O que estou aprendendo
+
+```text
+HTML          ████████████████████  90%
+CSS           ██████████████████░░  85%
+JavaScript    ███████████████░░░░░  70%
+TypeScript    ██████████░░░░░░░░░░  50%
+Angular       ████████░░░░░░░░░░░░  40%
+Git/GitHub    ███████████████░░░░░  70%
+```
+
+---
+
+## 📌 Objetivos
+
+* [x] Aprender HTML
+* [x] Aprender CSS
+* [x] Criar projetos práticos
+* [x] Aprender JavaScript
+* [x] Utilizar Git e GitHub
+* [ ] Aprofundar JavaScript
+* [ ] Dominar TypeScript
+* [ ] Desenvolver projetos com Angular
+* [ ] Criar aplicações cada vez mais completas
+
+---
 
 
 
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedromarins2023-lgtm&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true&custom_title=ATIVIDADE%20DE%20PEDRO%20MARINS" /></div>
+### "Código é construído linha por linha."
 
+![Profile Views](https://komarev.com/ghpvc/?username=pedromarins2023-lgtm\&color=808080\&style=flat-square)
 
+</div>
 
-
-🚀 PROJETOS
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=23&duration=2400&pause=700&color=FF0000&center=true&vCenter=true&width=700&height=50&lines=MEUS+PROJETOS;IDEIAS+QUE+EST%C3%83O+SAINDO+DO+PAPEL;EM+CONSTANTE+EVOLU%C3%87%C3%83O+%F0%9F%94%A5" /></div><br>🔥 Projeto| 💻 Tecnologias| 🚀 Status
-🌐 Portfólio| HTML • CSS • JavaScript| 🔥 Em evolução
-💻 Projetos Web| HTML • CSS • JavaScript| 🚀 Desenvolvendo
-🧠 Estudos de Programação| JavaScript • TypeScript| 📚 Aprendendo
-
-
-
-<div align="center">🎯 OBJETIVOS
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=2300&pause=700&color=FF0000&center=true&vCenter=true&width=800&height=50&lines=Evoluir+como+desenvolvedor;Criar+projetos+cada+vez+melhores;Aprender+novas+tecnologias;Construir+uma+carreira+na+tecnologia" /></div>
 
 🌎 CONECTE-SE COMIGO
 
