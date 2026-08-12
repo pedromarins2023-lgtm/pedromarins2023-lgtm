@@ -39,17 +39,6 @@ Atualmente, estou focado no desenvolvimento **Front-End**, criando projetos prá
 
 </div>
 
----
-
-##  GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromarins2023-lgtm&show_icons=true&theme=dark&bg_color=181818&title_color=ffffff&text_color=b3b3b3&icon_color=999999&border_color=333333"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarins2023-lgtm&layout=compact&theme=dark&bg_color=181818&title_color=ffffff&text_color=b3b3b3&border_color=333333"/>
-
-</div>
 
 ---
 
@@ -71,55 +60,15 @@ Atualmente, estou focado no desenvolvimento **Front-End**, criando projetos prá
 
 </div>
 
----
 
-## 📂 Projetos
 
-### 🌱 Projeto Uçá
 
-Projeto socioambiental desenvolvido com foco na **preservação dos manguezais**, educação ambiental e conscientização.
-
-**Tecnologias:** HTML • CSS • JavaScript
 
 
 ---
 
-## 💻 O que estou aprendendo
-
-```text
-HTML          ████████████████████  90%
-CSS           ██████████████████░░  85%
-JavaScript    ███████████████░░░░░  70%
-TypeScript    ██████████░░░░░░░░░░  50%
-Angular       ████████░░░░░░░░░░░░  40%
-Git/GitHub    ███████████████░░░░░  70%
-```
-
----
-
-## 📌 Objetivos
-
-* [x] Aprender HTML
-* [x] Aprender CSS
-* [x] Criar projetos práticos
-* [x] Aprender JavaScript
-* [x] Utilizar Git e GitHub
-* [ ] Aprofundar JavaScript
-* [ ] Dominar TypeScript
-* [ ] Desenvolver projetos com Angular
-* [ ] Criar aplicações cada vez mais completas
-
----
 
 
-
-<div align="center">
-
-### "Código é construído linha por linha."
-
-![Profile Views](https://komarev.com/ghpvc/?username=pedromarins2023-lgtm\&color=808080\&style=flat-square)
-
-</div>
 
 
 🌎 CONECTE-SE COMIGO
@@ -136,6 +85,3 @@ Git/GitHub    ███████████████░░░░░  70%
 
 <a href="https://www.instagram.com/_predoreal/?hl=pt-br"><img src="https://img.shields.io/badge/INSTAGRAM-FF0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0000" height="45"/></a></div>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=25&duration=2500&pause=900&color=FF0000&center=true&vCenter=true&width=800&height=60&lines=OBRIGADO+POR+VISITAR+MEU+PERFIL+%F0%9F%94%A5;AT%C3%89+A+PR%C3%93XIMA+VISITA!;KEEP+CODING+%F0%9F%94%A5" /><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,30:660000,70:cc0000,100:ff0000&height=180&section=footer&animation=fadeIn"/></div>
